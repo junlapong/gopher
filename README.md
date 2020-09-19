@@ -44,6 +44,22 @@
 
 - [@davecheney](https://github.com/davecheney)
 
+### Yasuhiro Matsumoto
+
+> Long-time Golang user&contributor, Google Dev Expert for Go, and author of many Go tools, Vim plugin author. Windows hacker C#/Java/C/C++
+
+- [@mattn](https://github.com/mattn)
+- https://github.com/mattn/go-sqlite3
+- https://github.com/mattn/gopher
+
+
+### Jaana Dogan
+
+> Engineer and Technical Advisor at Google working on Spanner. Previously Go, observability, and Google APIs
+
+- [@rakyll](https://github.com/rakyll)
+- https://github.com/rakyll/hey
+
 ### Dmitri Shuralyov
 
 > I seek a better understanding of the world, so I can help make it simpler and better. I enjoy writing correct, high-quality Go code. Minimalist.
